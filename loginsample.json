@@ -1,0 +1,84 @@
+{
+    "account_activity": [
+      {
+        "action": "Session updated",
+        "timestamp": 1651372230,
+        "ip_address": "131.237.241.88",
+        "user_agent": "SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 12; SM-G973F Build/SP1A.210812.016) [FBAN/EMA;FBBV/382118485;FBAV/311.0.0.7.114;FBDV/SM-G973F;FBLC/de_DE;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=2.625}]",
+        "city": "Berlin",
+        "region": "Berlin",
+        "country": "DE",
+        "site_name": "www.facebook.com"
+      },
+      {
+        "action": "Login",
+        "timestamp": 1657818143,
+        "ip_address": "137.201.539.85",
+        "user_agent": "SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 12; SM-G973F Build/SP1A.210812.016) [FBAN/EMA;FBBV/382118485;FBAV/311.0.0.7.114;FBDV/SM-G973F;FBLC/de_DE;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=2.625}]",
+        "city": "Hamburg",
+        "region": "Hamburg",
+        "country": "DE",
+        "site_name": "www.facebook.com"
+      },
+      {
+        "action": "Session updated",
+        "timestamp": 1655720975,
+        "ip_address": "108.553.238.64",
+        "user_agent": "SupportsFresco=1 modular=2 Dalvik/2.1.0 (Linux; U; Android 12; SM-G973F Build/SP1A.210812.016) [FBAN/EMA;FBBV/380578322;FBAV/310.0.0.12.108;FBDV/SM-G973F;FBLC/de_DE;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=2.625}]",
+        "city": "Paderborn",
+        "region": "Nordrhein-Westfalen",
+        "country": "DE",
+        "site_name": "www.facebook.com"
+      },
+      {
+        "action": "Session updated",
+        "timestamp": 1657831706,
+        "ip_address": "108.553.238.64",
+        "user_agent": "SupportsFresco=1 modular=2 Dalvik/2.1.0 (Linux; U; Android 12; SM-G973F Build/SP1A.210812.016) [FBAN/EMA;FBBV/380578322;FBAV/310.0.0.12.108;FBDV/SM-G973F;FBLC/de_DE;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=2.625}]",
+        "city": "Paderborn",
+        "region": "Nordrhein-Westfalen",
+        "country": "DE",
+        "site_name": "www.facebook.com"
+      },
+      {
+        "action": "Login",
+        "timestamp": 1655015729,
+        "ip_address": "2005:0637:0502:0180:a0f0:b4a6:c711:764d",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0",
+        "city": "Bielefeld",
+        "region": "Nordrhein-Westfalen",
+        "country": "DE",
+        "site_name": "www.facebook.com"
+      },
+      {
+        "action": "Web Session Terminated",
+        "timestamp": 1656210630,
+        "ip_address": "2005:0637:0502:0180:a0f0:b4a6:c711:764d",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0",
+        "city": "Munchen",
+        "region": "Bayern",
+        "country": "DE",
+        "site_name": "www.facebook.com"
+      },
+      {
+        "action": "Session updated",
+        "timestamp": 1657468086,
+        "ip_address": "98.31.81.624",
+        "user_agent": "SupportsFresco=1 modular=2 Dalvik/2.1.0 (Linux; U; Android 12; SM-G973F Build/SP1A.210812.016) [FBAN/EMA;FBBV/380578322;FBAV/310.0.0.12.108;FBDV/SM-G973F;FBLC/de_DE;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=2.625}]",
+        "city": "Dusseldorf",
+        "region": "Nordrhein-Westfalen",
+        "country": "DE",
+        "site_name": "www.facebook.com"
+      },
+      {
+        "action": "Login",
+        "timestamp": 1657381019,
+        "ip_address": "2b00:6050:c00f:ce50:382e:4e82:93f7:e318",
+        "user_agent": "SupportsFresco=1 modular=2 Dalvik/2.1.0 (Linux; U; Android 12; SM-G973F Build/SP1A.210812.016) [FBAN/EMA;FBBV/380578322;FBAV/310.0.0.12.108;FBDV/SM-G973F;FBLC/de_DE;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=2.625}]",
+        "city": "Stuttgart",
+        "region": "Baden-Wurttemberg",
+        "country": "DE",
+        "site_name": "www.facebook.com"
+      }
+    ]
+  }
